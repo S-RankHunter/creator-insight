@@ -1,4 +1,4 @@
 {
-  "outputDirectory": ".",
-  "buildCommand": "echo done"
+  "cleanUrls": true,
+  "trailingSlash": false
 }
